@@ -1,0 +1,5 @@
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\InheritConstructorWithBaseClass\InheritConstructorWithBaseClass\bin\Debug\InheritConstructorWithBaseClass.exe.config
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\InheritConstructorWithBaseClass\InheritConstructorWithBaseClass\bin\Debug\InheritConstructorWithBaseClass.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\InheritConstructorWithBaseClass\InheritConstructorWithBaseClass\bin\Debug\InheritConstructorWithBaseClass.pdb
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\InheritConstructorWithBaseClass\InheritConstructorWithBaseClass\obj\Debug\InheritConstructorWithBaseClass.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\InheritConstructorWithBaseClass\InheritConstructorWithBaseClass\obj\Debug\InheritConstructorWithBaseClass.pdb

@@ -1,0 +1,6 @@
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\Encapsulations\Encapsulations\bin\Debug\Encapsulations.exe.config
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\Encapsulations\Encapsulations\bin\Debug\Encapsulations.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\Encapsulations\Encapsulations\bin\Debug\Encapsulations.pdb
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\Encapsulations\Encapsulations\obj\Debug\Encapsulations.csprojResolveAssemblyReference.cache
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\Encapsulations\Encapsulations\obj\Debug\Encapsulations.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\Encapsulations\Encapsulations\obj\Debug\Encapsulations.pdb
