@@ -1,0 +1,5 @@
+\\AEPFS1\Users\salah.bedeiwi\Documents\Visual Studio 2015\Projects\CsharpOOP\CreateNameSpace\CreateNameSpace\bin\Debug\CreateNameSpace.exe.config
+\\AEPFS1\Users\salah.bedeiwi\Documents\Visual Studio 2015\Projects\CsharpOOP\CreateNameSpace\CreateNameSpace\bin\Debug\CreateNameSpace.exe
+\\AEPFS1\Users\salah.bedeiwi\Documents\Visual Studio 2015\Projects\CsharpOOP\CreateNameSpace\CreateNameSpace\bin\Debug\CreateNameSpace.pdb
+\\AEPFS1\Users\salah.bedeiwi\Documents\Visual Studio 2015\Projects\CsharpOOP\CreateNameSpace\CreateNameSpace\obj\Debug\CreateNameSpace.exe
+\\AEPFS1\Users\salah.bedeiwi\Documents\Visual Studio 2015\Projects\CsharpOOP\CreateNameSpace\CreateNameSpace\obj\Debug\CreateNameSpace.pdb

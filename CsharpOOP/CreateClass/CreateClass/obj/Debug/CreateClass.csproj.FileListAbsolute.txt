@@ -1,0 +1,6 @@
+\\AEPFS1\Users\salah.bedeiwi\Documents\Visual Studio 2015\Projects\CsharpOOP\CreateClass\CreateClass\bin\Debug\CreateClass.exe.config
+\\AEPFS1\Users\salah.bedeiwi\Documents\Visual Studio 2015\Projects\CsharpOOP\CreateClass\CreateClass\bin\Debug\CreateClass.exe
+\\AEPFS1\Users\salah.bedeiwi\Documents\Visual Studio 2015\Projects\CsharpOOP\CreateClass\CreateClass\bin\Debug\CreateClass.pdb
+\\AEPFS1\Users\salah.bedeiwi\Documents\Visual Studio 2015\Projects\CsharpOOP\CreateClass\CreateClass\obj\Debug\CreateClass.csprojResolveAssemblyReference.cache
+\\AEPFS1\Users\salah.bedeiwi\Documents\Visual Studio 2015\Projects\CsharpOOP\CreateClass\CreateClass\obj\Debug\CreateClass.exe
+\\AEPFS1\Users\salah.bedeiwi\Documents\Visual Studio 2015\Projects\CsharpOOP\CreateClass\CreateClass\obj\Debug\CreateClass.pdb
