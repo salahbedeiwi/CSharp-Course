@@ -1,0 +1,6 @@
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\StaticVsNonStatic\StaticVsNonStatic\bin\Debug\StaticVsNonStatic.exe.config
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\StaticVsNonStatic\StaticVsNonStatic\bin\Debug\StaticVsNonStatic.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\StaticVsNonStatic\StaticVsNonStatic\bin\Debug\StaticVsNonStatic.pdb
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\StaticVsNonStatic\StaticVsNonStatic\obj\Debug\StaticVsNonStatic.csprojResolveAssemblyReference.cache
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\StaticVsNonStatic\StaticVsNonStatic\obj\Debug\StaticVsNonStatic.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\StaticVsNonStatic\StaticVsNonStatic\obj\Debug\StaticVsNonStatic.pdb

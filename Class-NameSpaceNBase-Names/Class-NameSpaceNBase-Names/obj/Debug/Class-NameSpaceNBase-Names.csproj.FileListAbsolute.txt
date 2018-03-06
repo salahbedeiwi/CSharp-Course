@@ -1,0 +1,6 @@
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\Class-NameSpaceNBase-Names\Class-NameSpaceNBase-Names\bin\Debug\Class-NameSpaceNBase-Names.exe.config
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\Class-NameSpaceNBase-Names\Class-NameSpaceNBase-Names\bin\Debug\Class-NameSpaceNBase-Names.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\Class-NameSpaceNBase-Names\Class-NameSpaceNBase-Names\bin\Debug\Class-NameSpaceNBase-Names.pdb
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\Class-NameSpaceNBase-Names\Class-NameSpaceNBase-Names\obj\Debug\Class-NameSpaceNBase-Names.csprojResolveAssemblyReference.cache
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\Class-NameSpaceNBase-Names\Class-NameSpaceNBase-Names\obj\Debug\Class-NameSpaceNBase-Names.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\Class-NameSpaceNBase-Names\Class-NameSpaceNBase-Names\obj\Debug\Class-NameSpaceNBase-Names.pdb
