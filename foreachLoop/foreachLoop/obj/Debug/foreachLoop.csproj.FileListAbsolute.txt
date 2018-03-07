@@ -1,0 +1,1 @@
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\foreachLoop\foreachLoop\bin\Debug\foreachLoop.exe.config
