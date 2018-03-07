@@ -1,0 +1,6 @@
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\whiteLoop\whiteLoop\bin\Debug\whiteLoop.exe.config
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\whiteLoop\whiteLoop\bin\Debug\whiteLoop.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\whiteLoop\whiteLoop\bin\Debug\whiteLoop.pdb
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\whiteLoop\whiteLoop\obj\Debug\whiteLoop.csprojResolveAssemblyReference.cache
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\whiteLoop\whiteLoop\obj\Debug\whiteLoop.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\whiteLoop\whiteLoop\obj\Debug\whiteLoop.pdb
