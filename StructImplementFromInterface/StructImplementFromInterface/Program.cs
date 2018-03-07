@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,6 +15,7 @@ namespace StructImplementFromInterface
         //create methods - must be used when implemented
         void AddPerson();
         void RemovePerson();
+        void UpdatePerson(string name);
 
     }
     //create a struct
@@ -37,6 +38,7 @@ namespace StructImplementFromInterface
         //interface Person methods - can't use public/private/protected - interface roles
         void Person.AddPerson() { Console.WriteLine("Person {0} that is #{1} years, has been Added", _EmpName, _EmpAge); }
         void Person.RemovePerson() { Console.WriteLine("Person {0} that is #{1} years, has been removed", _EmpName, _EmpAge);}
+        void Person.UpdatePerson(string name) { Console.WriteLine("Person {0} that is #{1} years, has been updated", name, _EmpAge); }
         /*******struc info*******/
         //here add struc attribute:
         private int _empId;
@@ -111,6 +113,7 @@ namespace StructImplementFromInterface
             em1.name = "Salah";
             em1.AddPerson();
             em1.RemovePerson();
+            em1.UpdatePerson(em1.name); //must pass name
         }
         //get all members of struct not the implemented from the interface:
         static void UseStructMembers()
@@ -154,5 +157,37 @@ namespace StructImplementFromInterface
     create property: getter & setter - must not return anything
     create method: must use everything here - must be empty
     can have more than one interface inside namespace
+
+*/
+/* Results:
+ 
+
+============= ACCESS ALL PROPERTIES/METHODS OF INTERFACE IN STRUC =============
+
+Person Salah that is #30 years, has been Added
+Person Salah that is #30 years, has been removed
+Person Salah that is #30 years, has been removed
+
+============= ACCESS ALL ATTRIBUTES/PROPERTIES/METHODS/CONSTRUCTOR OF STRUC =============
+
+
+============= NOW PRINT ALL PARAM ON A METHOD INSIDE EMPLOYEE STRUCT =============
+
+You have called PrintAll Method:
+=>Id is: 00001
+=>Address is: Minnesota, Usa
+=>Job Title is: Software Engineer
+
+
+============= NOW CALL FIRST CONSTRUCTOR WITH ONE ARG PASSED INSIDE EMPLOYEE STRUCT =============
+
+Employee Id is: 00001
+
+============= NOW CALL FIRST CONSTRUCTOR WITH 3 ARGW PASSED INSIDE EMPLOYEE STRUCT =============
+
+=>Id is: 00001
+=>Address is: Minnesota, Usa
+=>Job Title is: Software Engineer
+
 
 */
