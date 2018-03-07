@@ -1,0 +1,6 @@
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\emptyString\emptyString\bin\Debug\emptyString.exe.config
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\emptyString\emptyString\bin\Debug\emptyString.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\emptyString\emptyString\bin\Debug\emptyString.pdb
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\emptyString\emptyString\obj\Debug\emptyString.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\emptyString\emptyString\obj\Debug\emptyString.pdb
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\emptyString\emptyString\obj\Debug\emptyString.csprojResolveAssemblyReference.cache
