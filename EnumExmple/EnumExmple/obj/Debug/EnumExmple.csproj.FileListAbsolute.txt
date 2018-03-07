@@ -1,0 +1,6 @@
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\EnumExmple\EnumExmple\bin\Debug\EnumExmple.exe.config
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\EnumExmple\EnumExmple\bin\Debug\EnumExmple.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\EnumExmple\EnumExmple\bin\Debug\EnumExmple.pdb
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\EnumExmple\EnumExmple\obj\Debug\EnumExmple.csprojResolveAssemblyReference.cache
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\EnumExmple\EnumExmple\obj\Debug\EnumExmple.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\EnumExmple\EnumExmple\obj\Debug\EnumExmple.pdb
