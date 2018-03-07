@@ -1,0 +1,6 @@
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\arrays\arrays\bin\Debug\arrays.exe.config
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\arrays\arrays\bin\Debug\arrays.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\arrays\arrays\bin\Debug\arrays.pdb
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\arrays\arrays\obj\Debug\arrays.csprojResolveAssemblyReference.cache
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\arrays\arrays\obj\Debug\arrays.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\arrays\arrays\obj\Debug\arrays.pdb
