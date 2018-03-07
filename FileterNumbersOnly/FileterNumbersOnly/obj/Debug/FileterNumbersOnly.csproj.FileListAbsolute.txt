@@ -1,0 +1,6 @@
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\FileterNumbersOnly\FileterNumbersOnly\bin\Debug\FileterNumbersOnly.exe.config
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\FileterNumbersOnly\FileterNumbersOnly\bin\Debug\FileterNumbersOnly.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\FileterNumbersOnly\FileterNumbersOnly\bin\Debug\FileterNumbersOnly.pdb
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\FileterNumbersOnly\FileterNumbersOnly\obj\Debug\FileterNumbersOnly.csprojResolveAssemblyReference.cache
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\FileterNumbersOnly\FileterNumbersOnly\obj\Debug\FileterNumbersOnly.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\FileterNumbersOnly\FileterNumbersOnly\obj\Debug\FileterNumbersOnly.pdb
