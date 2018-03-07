@@ -1,0 +1,6 @@
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\PreventAccessToProperty\PreventAccessToProperty\bin\Debug\PreventAccessToProperty.exe.config
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\PreventAccessToProperty\PreventAccessToProperty\bin\Debug\PreventAccessToProperty.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\PreventAccessToProperty\PreventAccessToProperty\bin\Debug\PreventAccessToProperty.pdb
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\PreventAccessToProperty\PreventAccessToProperty\obj\Debug\PreventAccessToProperty.csprojResolveAssemblyReference.cache
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\PreventAccessToProperty\PreventAccessToProperty\obj\Debug\PreventAccessToProperty.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\PreventAccessToProperty\PreventAccessToProperty\obj\Debug\PreventAccessToProperty.pdb
