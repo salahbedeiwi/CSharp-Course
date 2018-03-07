@@ -1,0 +1,5 @@
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\LogicalOperator\LogicalOperator\bin\Debug\LogicalOperator.exe.config
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\LogicalOperator\LogicalOperator\bin\Debug\LogicalOperator.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\LogicalOperator\LogicalOperator\bin\Debug\LogicalOperator.pdb
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\LogicalOperator\LogicalOperator\obj\Debug\LogicalOperator.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\LogicalOperator\LogicalOperator\obj\Debug\LogicalOperator.pdb

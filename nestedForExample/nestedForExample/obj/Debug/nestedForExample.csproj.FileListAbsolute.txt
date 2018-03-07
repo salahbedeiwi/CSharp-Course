@@ -1,0 +1,5 @@
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\nestedForExample\nestedForExample\bin\Debug\nestedForExample.exe.config
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\nestedForExample\nestedForExample\bin\Debug\nestedForExample.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\nestedForExample\nestedForExample\bin\Debug\nestedForExample.pdb
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\nestedForExample\nestedForExample\obj\Debug\nestedForExample.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\nestedForExample\nestedForExample\obj\Debug\nestedForExample.pdb
