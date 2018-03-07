@@ -1,0 +1,6 @@
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\CreateaFileClass\CreateaFileClass\bin\Debug\CreateaFileClass.exe.config
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\CreateaFileClass\CreateaFileClass\bin\Debug\CreateaFileClass.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\CreateaFileClass\CreateaFileClass\bin\Debug\CreateaFileClass.pdb
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\CreateaFileClass\CreateaFileClass\obj\Debug\CreateaFileClass.csprojResolveAssemblyReference.cache
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\CreateaFileClass\CreateaFileClass\obj\Debug\CreateaFileClass.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\CreateaFileClass\CreateaFileClass\obj\Debug\CreateaFileClass.pdb
