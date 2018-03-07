@@ -1,0 +1,6 @@
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\ReadOnlyProperty\ReadOnlyProperty\bin\Debug\ReadOnlyProperty.exe.config
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\ReadOnlyProperty\ReadOnlyProperty\bin\Debug\ReadOnlyProperty.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\ReadOnlyProperty\ReadOnlyProperty\bin\Debug\ReadOnlyProperty.pdb
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\ReadOnlyProperty\ReadOnlyProperty\obj\Debug\ReadOnlyProperty.csprojResolveAssemblyReference.cache
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\ReadOnlyProperty\ReadOnlyProperty\obj\Debug\ReadOnlyProperty.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\ReadOnlyProperty\ReadOnlyProperty\obj\Debug\ReadOnlyProperty.pdb
