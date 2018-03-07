@@ -1,0 +1,6 @@
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\StructExample\StructExample\bin\Debug\StructExample.exe.config
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\StructExample\StructExample\bin\Debug\StructExample.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\StructExample\StructExample\bin\Debug\StructExample.pdb
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\StructExample\StructExample\obj\Debug\StructExample.csprojResolveAssemblyReference.cache
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\StructExample\StructExample\obj\Debug\StructExample.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\StructExample\StructExample\obj\Debug\StructExample.pdb
