@@ -1,0 +1,5 @@
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\stringDotFormat\stringDotFormat\bin\Debug\stringDotFormat.exe.config
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\stringDotFormat\stringDotFormat\bin\Debug\stringDotFormat.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\stringDotFormat\stringDotFormat\bin\Debug\stringDotFormat.pdb
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\stringDotFormat\stringDotFormat\obj\Debug\stringDotFormat.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\stringDotFormat\stringDotFormat\obj\Debug\stringDotFormat.pdb
