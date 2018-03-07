@@ -1,0 +1,5 @@
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\reverseString\reverseString\bin\Debug\reverseString.exe.config
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\reverseString\reverseString\bin\Debug\reverseString.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\reverseString\reverseString\bin\Debug\reverseString.pdb
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\reverseString\reverseString\obj\Debug\reverseString.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\reverseString\reverseString\obj\Debug\reverseString.pdb

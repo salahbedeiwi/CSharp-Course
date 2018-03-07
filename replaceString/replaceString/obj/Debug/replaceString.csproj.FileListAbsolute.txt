@@ -1,0 +1,6 @@
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\replaceString\replaceString\bin\Debug\replaceString.exe.config
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\replaceString\replaceString\bin\Debug\replaceString.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\replaceString\replaceString\bin\Debug\replaceString.pdb
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\replaceString\replaceString\obj\Debug\replaceString.csprojResolveAssemblyReference.cache
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\replaceString\replaceString\obj\Debug\replaceString.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\replaceString\replaceString\obj\Debug\replaceString.pdb

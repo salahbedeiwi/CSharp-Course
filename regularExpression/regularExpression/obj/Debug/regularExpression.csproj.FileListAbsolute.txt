@@ -1,0 +1,6 @@
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\regularExpression\regularExpression\bin\Debug\regularExpression.exe.config
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\regularExpression\regularExpression\bin\Debug\regularExpression.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\regularExpression\regularExpression\bin\Debug\regularExpression.pdb
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\regularExpression\regularExpression\obj\Debug\regularExpression.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\regularExpression\regularExpression\obj\Debug\regularExpression.pdb
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\Basics\cast\regularExpression\regularExpression\obj\Debug\regularExpression.csprojResolveAssemblyReference.cache
