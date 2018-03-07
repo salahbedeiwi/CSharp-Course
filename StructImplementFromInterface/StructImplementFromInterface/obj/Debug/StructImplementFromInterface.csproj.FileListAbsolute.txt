@@ -1,0 +1,6 @@
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\StructImplementFromInterface\StructImplementFromInterface\bin\Debug\StructImplementFromInterface.exe.config
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\StructImplementFromInterface\StructImplementFromInterface\bin\Debug\StructImplementFromInterface.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\StructImplementFromInterface\StructImplementFromInterface\bin\Debug\StructImplementFromInterface.pdb
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\StructImplementFromInterface\StructImplementFromInterface\obj\Debug\StructImplementFromInterface.csprojResolveAssemblyReference.cache
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\StructImplementFromInterface\StructImplementFromInterface\obj\Debug\StructImplementFromInterface.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\StructImplementFromInterface\StructImplementFromInterface\obj\Debug\StructImplementFromInterface.pdb
