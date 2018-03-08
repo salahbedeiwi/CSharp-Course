@@ -1,0 +1,8 @@
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\TestDDLinConsole\TestDDLinConsole\bin\Debug\TestDDLinConsole.exe.config
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\TestDDLinConsole\TestDDLinConsole\bin\Debug\TestDDLinConsole.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\TestDDLinConsole\TestDDLinConsole\bin\Debug\TestDDLinConsole.pdb
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\TestDDLinConsole\TestDDLinConsole\bin\Debug\CreateClassDDLinClassLibrary.dll
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\TestDDLinConsole\TestDDLinConsole\bin\Debug\CreateClassDDLinClassLibrary.pdb
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\TestDDLinConsole\TestDDLinConsole\obj\Debug\TestDDLinConsole.csprojResolveAssemblyReference.cache
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\TestDDLinConsole\TestDDLinConsole\obj\Debug\TestDDLinConsole.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\TestDDLinConsole\TestDDLinConsole\obj\Debug\TestDDLinConsole.pdb
