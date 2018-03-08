@@ -1,0 +1,6 @@
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\GenericClass\GenericClass\bin\Debug\GenericClass.exe.config
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\GenericClass\GenericClass\bin\Debug\GenericClass.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\GenericClass\GenericClass\bin\Debug\GenericClass.pdb
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\GenericClass\GenericClass\obj\Debug\GenericClass.csprojResolveAssemblyReference.cache
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\GenericClass\GenericClass\obj\Debug\GenericClass.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\GenericClass\GenericClass\obj\Debug\GenericClass.pdb
