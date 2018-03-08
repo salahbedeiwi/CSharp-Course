@@ -1,0 +1,6 @@
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\GenericMethod\GenericMethod\bin\Debug\GenericMethod.exe.config
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\GenericMethod\GenericMethod\bin\Debug\GenericMethod.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\GenericMethod\GenericMethod\bin\Debug\GenericMethod.pdb
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\GenericMethod\GenericMethod\obj\Debug\GenericMethod.csprojResolveAssemblyReference.cache
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\GenericMethod\GenericMethod\obj\Debug\GenericMethod.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\GenericMethod\GenericMethod\obj\Debug\GenericMethod.pdb
