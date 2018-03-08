@@ -1,0 +1,5 @@
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\CreateAnonymousClass\CreateAnonymousClass\bin\Debug\CreateAnonymousClass.exe.config
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\CreateAnonymousClass\CreateAnonymousClass\bin\Debug\CreateAnonymousClass.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\CreateAnonymousClass\CreateAnonymousClass\bin\Debug\CreateAnonymousClass.pdb
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\CreateAnonymousClass\CreateAnonymousClass\obj\Debug\CreateAnonymousClass.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\CreateAnonymousClass\CreateAnonymousClass\obj\Debug\CreateAnonymousClass.pdb
