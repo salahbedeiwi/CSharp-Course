@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -63,3 +63,30 @@ namespace CreateAnonymousMethod
         }
     }
 }
+/* Results: 
+        Salah
+        Anonymous Method - 3
+        Welcome to anonymous method#4
+        ====================================
+        1
+        ====================================
+        240
+        ====================================
+        Object passed => salah
+        Object passed => Imad
+        Object passed => Bedeiwi
+        Object passed => 153.65
+        Object passed => 18
+        ====================================
+        Square of 15 is 225
+        ====================================
+        Square of 15 is 225
+        Square of 18 is 324
+        Square of 19 is 361
+        Square of 20 is 400
+        Square of 21 is 441
+        Square of 22 is 484
+        Square of 23 is 529
+        Square of 36 is 1296
+
+  */
