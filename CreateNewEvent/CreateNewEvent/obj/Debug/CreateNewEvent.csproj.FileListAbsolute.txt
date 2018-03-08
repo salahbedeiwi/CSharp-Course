@@ -1,0 +1,6 @@
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\CreateNewEvent\CreateNewEvent\bin\Debug\CreateNewEvent.exe.config
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\CreateNewEvent\CreateNewEvent\bin\Debug\CreateNewEvent.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\CreateNewEvent\CreateNewEvent\bin\Debug\CreateNewEvent.pdb
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\CreateNewEvent\CreateNewEvent\obj\Debug\CreateNewEvent.csprojResolveAssemblyReference.cache
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\CreateNewEvent\CreateNewEvent\obj\Debug\CreateNewEvent.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\CreateNewEvent\CreateNewEvent\obj\Debug\CreateNewEvent.pdb
