@@ -1,0 +1,6 @@
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\CreateYourOwnException\CreateYourOwnException\bin\Debug\CreateYourOwnException.exe.config
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\CreateYourOwnException\CreateYourOwnException\bin\Debug\CreateYourOwnException.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\CreateYourOwnException\CreateYourOwnException\bin\Debug\CreateYourOwnException.pdb
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\CreateYourOwnException\CreateYourOwnException\obj\Debug\CreateYourOwnException.csprojResolveAssemblyReference.cache
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\CreateYourOwnException\CreateYourOwnException\obj\Debug\CreateYourOwnException.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\CreateYourOwnException\CreateYourOwnException\obj\Debug\CreateYourOwnException.pdb
