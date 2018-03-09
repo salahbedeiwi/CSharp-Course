@@ -1,0 +1,6 @@
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\FunctionAsParameters\FunctionAsParameters\bin\Debug\FunctionAsParameters.exe.config
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\FunctionAsParameters\FunctionAsParameters\bin\Debug\FunctionAsParameters.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\FunctionAsParameters\FunctionAsParameters\bin\Debug\FunctionAsParameters.pdb
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\FunctionAsParameters\FunctionAsParameters\obj\Debug\FunctionAsParameters.csprojResolveAssemblyReference.cache
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\FunctionAsParameters\FunctionAsParameters\obj\Debug\FunctionAsParameters.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\FunctionAsParameters\FunctionAsParameters\obj\Debug\FunctionAsParameters.pdb
