@@ -1,0 +1,6 @@
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\InfiniteParam\InfiniteParam\bin\Debug\InfiniteParam.exe.config
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\InfiniteParam\InfiniteParam\bin\Debug\InfiniteParam.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\InfiniteParam\InfiniteParam\bin\Debug\InfiniteParam.pdb
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\InfiniteParam\InfiniteParam\obj\Debug\InfiniteParam.csprojResolveAssemblyReference.cache
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\InfiniteParam\InfiniteParam\obj\Debug\InfiniteParam.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\InfiniteParam\InfiniteParam\obj\Debug\InfiniteParam.pdb
