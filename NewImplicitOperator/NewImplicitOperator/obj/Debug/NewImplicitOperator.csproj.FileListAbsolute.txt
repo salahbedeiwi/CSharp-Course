@@ -1,0 +1,6 @@
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\NewImplicitOperator\NewImplicitOperator\bin\Debug\NewImplicitOperator.exe.config
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\NewImplicitOperator\NewImplicitOperator\bin\Debug\NewImplicitOperator.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\NewImplicitOperator\NewImplicitOperator\bin\Debug\NewImplicitOperator.pdb
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\NewImplicitOperator\NewImplicitOperator\obj\Debug\NewImplicitOperator.csprojResolveAssemblyReference.cache
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\NewImplicitOperator\NewImplicitOperator\obj\Debug\NewImplicitOperator.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\NewImplicitOperator\NewImplicitOperator\obj\Debug\NewImplicitOperator.pdb
