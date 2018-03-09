@@ -1,0 +1,6 @@
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\ClassContainUnsafeCode\ClassContainUnsafeCode\bin\Debug\ClassContainUnsafeCode.exe.config
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\ClassContainUnsafeCode\ClassContainUnsafeCode\bin\Debug\ClassContainUnsafeCode.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\ClassContainUnsafeCode\ClassContainUnsafeCode\bin\Debug\ClassContainUnsafeCode.pdb
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\ClassContainUnsafeCode\ClassContainUnsafeCode\obj\Debug\ClassContainUnsafeCode.csprojResolveAssemblyReference.cache
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\ClassContainUnsafeCode\ClassContainUnsafeCode\obj\Debug\ClassContainUnsafeCode.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\ClassContainUnsafeCode\ClassContainUnsafeCode\obj\Debug\ClassContainUnsafeCode.pdb
