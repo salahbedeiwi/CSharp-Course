@@ -1,0 +1,6 @@
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\DisposeResources\DisposeResources\bin\Debug\DisposeResources.exe.config
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\DisposeResources\DisposeResources\bin\Debug\DisposeResources.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\DisposeResources\DisposeResources\bin\Debug\DisposeResources.pdb
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\DisposeResources\DisposeResources\obj\Debug\DisposeResources.csprojResolveAssemblyReference.cache
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\DisposeResources\DisposeResources\obj\Debug\DisposeResources.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\DisposeResources\DisposeResources\obj\Debug\DisposeResources.pdb
