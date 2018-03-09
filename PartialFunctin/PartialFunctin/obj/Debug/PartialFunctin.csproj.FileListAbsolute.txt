@@ -1,0 +1,6 @@
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\PartialFunctin\PartialFunctin\bin\Debug\PartialFunctin.exe.config
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\PartialFunctin\PartialFunctin\bin\Debug\PartialFunctin.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\PartialFunctin\PartialFunctin\bin\Debug\PartialFunctin.pdb
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\PartialFunctin\PartialFunctin\obj\Debug\PartialFunctin.csprojResolveAssemblyReference.cache
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\PartialFunctin\PartialFunctin\obj\Debug\PartialFunctin.exe
+\\aepfs1\users\salah.bedeiwi\documents\visual studio 2015\Projects\PartialFunctin\PartialFunctin\obj\Debug\PartialFunctin.pdb
