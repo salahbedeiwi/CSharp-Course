@@ -1,0 +1,6 @@
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\MethodCheckIntNum\MethodCheckIntNum\bin\Debug\MethodCheckIntNum.exe.config
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\MethodCheckIntNum\MethodCheckIntNum\bin\Debug\MethodCheckIntNum.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\MethodCheckIntNum\MethodCheckIntNum\bin\Debug\MethodCheckIntNum.pdb
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\MethodCheckIntNum\MethodCheckIntNum\obj\Debug\MethodCheckIntNum.csprojResolveAssemblyReference.cache
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\MethodCheckIntNum\MethodCheckIntNum\obj\Debug\MethodCheckIntNum.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\MethodCheckIntNum\MethodCheckIntNum\obj\Debug\MethodCheckIntNum.pdb
