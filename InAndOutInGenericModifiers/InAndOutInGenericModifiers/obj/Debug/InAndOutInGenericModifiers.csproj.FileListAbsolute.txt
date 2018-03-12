@@ -1,0 +1,6 @@
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\InAndOutInGenericModifiers\InAndOutInGenericModifiers\bin\Debug\InAndOutInGenericModifiers.exe.config
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\InAndOutInGenericModifiers\InAndOutInGenericModifiers\bin\Debug\InAndOutInGenericModifiers.exe
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\InAndOutInGenericModifiers\InAndOutInGenericModifiers\bin\Debug\InAndOutInGenericModifiers.pdb
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\InAndOutInGenericModifiers\InAndOutInGenericModifiers\obj\Debug\InAndOutInGenericModifiers.csprojResolveAssemblyReference.cache
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\InAndOutInGenericModifiers\InAndOutInGenericModifiers\obj\Debug\InAndOutInGenericModifiers.exe
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\InAndOutInGenericModifiers\InAndOutInGenericModifiers\obj\Debug\InAndOutInGenericModifiers.pdb
