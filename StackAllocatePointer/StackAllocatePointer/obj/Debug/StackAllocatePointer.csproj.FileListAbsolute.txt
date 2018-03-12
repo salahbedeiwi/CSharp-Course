@@ -1,0 +1,6 @@
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\StackAllocatePointer\StackAllocatePointer\bin\Debug\StackAllocatePointer.exe.config
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\StackAllocatePointer\StackAllocatePointer\bin\Debug\StackAllocatePointer.exe
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\StackAllocatePointer\StackAllocatePointer\bin\Debug\StackAllocatePointer.pdb
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\StackAllocatePointer\StackAllocatePointer\obj\Debug\StackAllocatePointer.csprojResolveAssemblyReference.cache
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\StackAllocatePointer\StackAllocatePointer\obj\Debug\StackAllocatePointer.exe
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\StackAllocatePointer\StackAllocatePointer\obj\Debug\StackAllocatePointer.pdb
