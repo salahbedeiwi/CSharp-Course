@@ -1,0 +1,6 @@
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\ExolicitOperator\ExolicitOperator\bin\Debug\ExolicitOperator.exe.config
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\ExolicitOperator\ExolicitOperator\bin\Debug\ExolicitOperator.exe
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\ExolicitOperator\ExolicitOperator\bin\Debug\ExolicitOperator.pdb
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\ExolicitOperator\ExolicitOperator\obj\Debug\ExolicitOperator.csprojResolveAssemblyReference.cache
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\ExolicitOperator\ExolicitOperator\obj\Debug\ExolicitOperator.exe
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\ExolicitOperator\ExolicitOperator\obj\Debug\ExolicitOperator.pdb
