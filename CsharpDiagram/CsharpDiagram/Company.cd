@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Alphabetical" MembersFormat="NameAndType">
+  <Comment CommentText="This is company class&#xD;&#xA;">
+    <Position X="0.5" Y="2.542" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="CompanyNameSpace.Company">
+    <Position X="5" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAgAAQAAAAEAAAAAAAAAAAEAgA=</HashCode>
+      <FileName>Company.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object">
+    <Position X="2.5" Y="0.5" Width="3.25" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CsharpDiagram.Program" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CsharpDiagram.ITDepartment">
+    <Position X="5" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAKAQABAAAgAACAAAABAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>ITDepartment.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Right" Position="0.422" />
+  </Class>
+  <Class Name="CsharpDiagram.Networking">
+    <Position X="5" Y="10" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAEAAAAAAACAAAAAAAAAAAMAAA=</HashCode>
+      <FileName>Networking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CsharpDiagram.ManagmentOffice">
+    <Position X="2.75" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAIAAAACAAAAkAAAAAAIAAAgA=</HashCode>
+      <FileName>ManagmentOffice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="CsharpDiagram.Story">
+    <Position X="8" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAEgAAAAAAAAAAAABAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Story.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="CsharpDiagram.Customers">
+    <Position X="8.75" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIABAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Customers.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Story" />
+    </ShowAsAssociation>
+  </Interface>
+  <Enum Name="CsharpDiagram.Floors">
+    <Position X="6" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAAAAAQAAAAAAAAIAIAAAAAAAAAAAAAAAAYA=</HashCode>
+      <FileName>Floors.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

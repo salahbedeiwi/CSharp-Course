@@ -1,0 +1,6 @@
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\CsharpDiagram\CsharpDiagram\bin\Debug\CsharpDiagram.exe.config
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\CsharpDiagram\CsharpDiagram\bin\Debug\CsharpDiagram.exe
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\CsharpDiagram\CsharpDiagram\bin\Debug\CsharpDiagram.pdb
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\CsharpDiagram\CsharpDiagram\obj\Debug\CsharpDiagram.csprojResolveAssemblyReference.cache
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\CsharpDiagram\CsharpDiagram\obj\Debug\CsharpDiagram.exe
+c:\users\salah.bedeiwi\documents\visual studio 2015\Projects\CsharpDiagram\CsharpDiagram\obj\Debug\CsharpDiagram.pdb
