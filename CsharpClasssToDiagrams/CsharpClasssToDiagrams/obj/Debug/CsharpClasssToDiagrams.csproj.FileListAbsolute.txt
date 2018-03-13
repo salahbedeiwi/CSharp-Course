@@ -1,0 +1,6 @@
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\CsharpClasssToDiagrams\CsharpClasssToDiagrams\bin\Debug\CsharpClasssToDiagrams.exe.config
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\CsharpClasssToDiagrams\CsharpClasssToDiagrams\bin\Debug\CsharpClasssToDiagrams.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\CsharpClasssToDiagrams\CsharpClasssToDiagrams\bin\Debug\CsharpClasssToDiagrams.pdb
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\CsharpClasssToDiagrams\CsharpClasssToDiagrams\obj\Debug\CsharpClasssToDiagrams.csprojResolveAssemblyReference.cache
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\CsharpClasssToDiagrams\CsharpClasssToDiagrams\obj\Debug\CsharpClasssToDiagrams.exe
+C:\Users\bedei\OneDrive\Documents\Visual Studio 2015\Projects\Learn CSharp Tutorials\oop\CsharpClasssToDiagrams\CsharpClasssToDiagrams\obj\Debug\CsharpClasssToDiagrams.pdb
