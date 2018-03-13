@@ -48,6 +48,25 @@ namespace CustomDataInClass
             p0.PrintData();
             Console.WriteLine("================================================");
 
+            object[] data_1 = { 218, "Ahmed", "Giza, Egypt", Prizes.Brown_Medal };
+            object[] data_2 = { 241, "Mohamed", "Aswan, Egypt", Prizes.Bronze_Medal };
+            object[] data_3 = { 101, "Kamel", "Cairo, Egypt", Prizes.Silver_Medal };
+            object[] data_4 = { 025, "Sayed", "Alex, Egypt", Prizes.Gold_Medal};
+            Person p_obj_1 = new Person();
+            Person p_obj_2 = new Person();
+            Person p_obj_3 = new Person();
+            Person p_obj_4 = new Person();
+            Person p_obj_6 = new object[] { 249, "Khalid", "Mansoura, Egypt", Prizes.Brown_Medal};
+            p_obj_1 = data_1; p_obj_1.PrintData();
+            p_obj_2 = data_2; p_obj_2.PrintData();
+            p_obj_3 = data_3; p_obj_3.PrintData();
+            p_obj_4 = data_4; p_obj_4.PrintData();
+            p_obj_6.PrintData();
+            Console.WriteLine("================================================");
+            //have some error on the object
+            object[] data_5 = { "025", "Sayed", "Alex, Egypt", Prizes.Gold_Medal };
+            Person p_obj_5 = new Person();
+            p_obj_5 = data_5; p_obj_5.PrintData();
             Console.ReadKey();
         }
     }
