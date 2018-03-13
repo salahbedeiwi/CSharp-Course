@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -72,12 +72,14 @@ namespace CsharpClasssToDiagrams
     {
 
     }
-    class Orders
+    public class Orders
     {
 
     }
     class Program
     {
+        public delegate void MyOrders(); //delegate
+        public static event MyOrders OrderStatus;//event
         static void Main(string[] args)
         {
             
@@ -105,7 +107,8 @@ namespace CsharpClasssToDiagrams
             companyEvent1();
             companyEvent2();
             companyEvent3();
-            //company events: ????????? i still don't know how to print it?
+            //company events: ????????? 
+            //i still don't know how to use it inside class that implemetnted from interfaec?
 
             Directions Icom = new Company(); //company implemented from Directions
             Icom.goDirections = "East";
@@ -129,9 +132,21 @@ namespace CsharpClasssToDiagrams
             empSlogan();
             Company.MyCompanyRevenue empRevenue = delegate (double rev) { return rev; };
             Console.WriteLine("Revenue for this Employee is {0:c2}", empRevenue(emp.Revenue));
+
+            //use delegate events frm class orders
+
             //class diagram - add new item, class diagram, save as CompanyDiagram.cd
             //click on view option, view class view (ctrl + shift + c)
 
+            //use events 
+
+            OrderStatus += delegate { Console.WriteLine("Order #15 is shipped!"); };//events
+            OrderStatus += delegate { Console.WriteLine("Order #16 is shipped!"); };//events
+            OrderStatus += delegate { Console.WriteLine("Order #52 is not shipped!"); };//events
+            OrderStatus();
+            //delegates
+            MyOrders orders = delegate { Console.WriteLine("Order #15!"); };
+            orders();
             Console.ReadKey();
         }
     }
